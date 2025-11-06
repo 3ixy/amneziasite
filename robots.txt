@@ -1,0 +1,20 @@
+# robots.txt для Amnezia VPN
+User-agent: *
+Allow: /
+
+# Запрещаем индексацию служебных директорий
+Disallow: /docs/build/
+Disallow: /node_modules/
+Disallow: /.git/
+
+# Разрешаем индексацию основных страниц
+Allow: /index.html
+Allow: /docs/
+Allow: /docs/Начало/
+
+# Sitemap
+Sitemap: https://amnezia-vpn.site/sitemap.xml
+
+# Crawl-delay для вежливости
+Crawl-delay: 1
+
