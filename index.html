@@ -231,15 +231,23 @@
         }
 
         .language-toggle {
-            background: var(--gradient-accent);
-            border: none;
-            color: white;
+            background: rgba(74, 144, 226, 0.1);
+            border: 1px solid rgba(74, 144, 226, 0.3);
+            color: var(--primary-color);
             padding: 0.5rem 1rem;
             border-radius: 25px;
             cursor: pointer;
             font-weight: 500;
             text-decoration: none;
-            transition: transform 0.3s ease;
+            transition: all 0.3s ease;
+        }
+
+        .language-toggle:hover {
+            background: rgba(74, 144, 226, 0.2);
+            border-color: var(--primary-color);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(74, 144, 226, 0.3);
         }
         
         /* Main Content */
@@ -485,7 +493,9 @@
 
         .benefit-item {
             display: flex;
-            align-items: flex-start;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
             gap: 1rem;
             padding: 1.5rem;
             background: rgba(255, 255, 255, 0.02);
@@ -496,20 +506,29 @@
 
         .benefit-item:hover {
             border-color: var(--secondary-color);
-            transform: translateX(5px);
+            transform: translateY(-5px);
         }
 
         .benefit-icon {
             width: 50px;
             height: 50px;
-            background: var(--gradient-benefit);
+            background: rgba(74, 144, 226, 0.15);
+            border: 1px solid rgba(74, 144, 226, 0.3);
             border-radius: 10px;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: white;
+            color: var(--primary-color);
             font-size: 1.5rem;
             flex-shrink: 0;
+            transition: all 0.3s ease;
+        }
+
+        .benefit-item:hover .benefit-icon {
+            background: rgba(74, 144, 226, 0.25);
+            border-color: var(--primary-color);
+            color: white;
+            transform: scale(1.1);
         }
 
         .benefit-icon i {
@@ -829,7 +848,7 @@
                     <div class="step-number">1</div>
                     <div class="step-content">
                         <h3 class="step-title">Купите VPS сервер на Xorek.Cloud</h3>
-                        <span class="step-highlight"><img src="whitelogo.png" alt="XorekLogo" width="150px"></span>
+                        <a href="https://xorek.cloud/?ref=18"><span class="step-highlight"><img src="white-logo.png" alt="XorekLogo" width="150px"></span></a>
                         <p class="step-subtitle">Рекомендуемые системные требования:</p>
                         <ul class="step-list">
                             <li>OC: Ubuntu 24.04</li>
@@ -887,36 +906,36 @@
         <!-- Benefits Section -->
         <section class="benefits" id="benefits">
             <div class="benefits-container">
-                <h2 class="section-title">Преимущества VPN</h2>
-                <p class="section-subtitle">Почему выбирают Amnezia VPN</p>
+                <h2 class="section-title">Преимущества AmneziaVPN</h2>
+                <p class="section-subtitle">Безопасность, свобода и контроль над приватностью — всё самое нужно, в одном приложении.</p>
                 
                 <div class="benefits-grid">
                     <div class="benefit-item">
                         <div class="benefit-icon"><i class="fas fa-lock"></i></div>
                         <div class="benefit-content">
-                            <div class="benefit-title">Без логов</div>
-                            <div class="benefit-description">AmneziaVPN не собирает логов, кроме того, исходный код доступен каждому для изучения</div>
+                            <div class="benefit-title">Никаких логов</div>
+                            <div class="benefit-description">Приложение не собирает и не хранит истории посещения</div>
                         </div>
                     </div>
                     <div class="benefit-item">
                         <div class="benefit-icon"><i class="fab fa-github"></i></div>
                         <div class="benefit-content">
                             <div class="benefit-title">Open Source</div>
-                            <div class="benefit-description">Весь исходный код открыт для проверки и аудита безопасности</div>
+                            <div class="benefit-description">Исходный код приложения и серверной части открыт для всех желающих для аудита безопасности</div>
                         </div>
                     </div>
                     <div class="benefit-item">
                         <div class="benefit-icon"><i class="fas fa-shield-alt"></i></div>
                         <div class="benefit-content">
                             <div class="benefit-title">Шифрование AES-256</div>
-                            <div class="benefit-description">Военное шифрование для максимальной защиты ваших данных и конфиденциальности</div>
+                            <div class="benefit-description">Поддержка протоколов с одним из лучших шифрований для сохранности Ваших данных</div>
                         </div>
                     </div>
                     <div class="benefit-item">
                         <div class="benefit-icon"><i class="fas fa-ban"></i></div>
                         <div class="benefit-content">
-                            <div class="benefit-title">Не требует регистрации</div>
-                            <div class="benefit-description">Начните использовать VPN без создания аккаунта и предоставления личных данных</div>
+                            <div class="benefit-title">Никаких регистраций</div>
+                            <div class="benefit-description">Используйте VPN без созданий аккаунтов и предоставления личных данных</div>
                         </div>
                     </div>
                     <div class="benefit-item">
