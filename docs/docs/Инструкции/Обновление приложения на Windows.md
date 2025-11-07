@@ -1,0 +1,52 @@
+# Обновление приложения на Windows
+
+Для того чтобы обновить приложение на Windows, необходимо сначала скачать
+новую версию приложение на устройство. Для этого откройте приложение,
+перейдите в настройки, для этого найдите значок настроек на нижней панели.  
+Выберите раздел - "Об Амнезия",
+
+![](../../assets/images/ua_ru_1-1b64ebc5306285bdd42159ae2c9d9f26.png)
+
+Пролистайте страницу вниз , найдите ссылку "Проверить обновления"
+
+![](../../assets/images/ua_ru_2-642a353d07ca294a3ecdf25f19d2af88.png) Вы
+перейдете на страницу github с последним релизом приложения, найдите файл в
+формате .exe (он для Windows) Так же можно скачать последнюю версию приложения
+[нашем сайте](https://storage.googleapis.com/kldscp/amnezia.org/ru/downloads)
+
+![](../../assets/images/ua_ru_3-0810b1353a28f8115019190d830487ac.png)
+
+Откройте трей (нажатием на стрелочку на нижней панели Windows), найдите значок
+Amnezia, кликните по нему правой кнопкой мыши, выберите "закрыть AmneziaVPN"
+
+![](../../assets/images/ua_ru_4-b221c68b4ac552db59e12f7894d947bc.png)
+
+Установите новую версию Amnezia, при необходимости перезагрузите устройство.
+
+![](../../assets/images/ua_ru_5-96e4210d50725871f2f94aa0edd3ff4d.png)
+
+[Предыдущая страницаKillSwitch](killswitch.html)[Следующая страницаСоздание
+сайта в сети TOR](create-tor-website.html)
+
+Обращайтесь в чат за помощью, если что-то не получается
+
+[](https://t.me/amnezia_vpn)
+
+![](../../img/logo-with-a-w-glow.svg)
+
+Продукты
+
+[Amnezia Premium](https://amnezia.org/premium)[Amnezia
+Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
+hosted)
+
+Ресурсы
+
+[Документация](../../documentation.html)[Решение
+проблем](../../troubleshooting.html)[FAQ](../../faq.html)
+
+Контакты
+
+[Github](https://github.com/amnezia-vpn/amnezia-
+client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
+
