@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamnezia_docs=globalThis.webpackChunkamnezia_docs||[]).push([[2634],{6467:(i,t,a)=>{a.r(t),a.d(t,{default:()=>s});a(8774);var e=a(4586),n=a(5201);a(1107);var o=a(4848);function s(){const{siteConfig:i}=(0,e.A)();return(0,o.jsx)(n.A,{title:`Hello from ${i.title}`,description:"Description will go into a meta tag in <head />"})}}}]);
