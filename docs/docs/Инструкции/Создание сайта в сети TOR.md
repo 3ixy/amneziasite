@@ -23,8 +23,7 @@
 
 ![](../../assets/images/cst_ru_5-13d86064cd040fad6e9c3379d577b8c8.png)
 
-## Настойка сайта в сети TOR[​](create-tor-website.html#настойка-сайта-в-сети-
-tor "Прямая ссылка на Настойка сайта в сети TOR")
+## Настойка сайта в сети TOR
 
 После успешной установки вы увидите адрес сайта, его нужно скопировать и
 вставить в строку браузера [Tor](https://www.torproject.org/).
@@ -53,29 +52,3 @@ tor "Прямая ссылка на Настойка сайта в сети TOR"
 [официальном сайте WordPress](https://codex.wordpress.org/) .
 
 ![](../../assets/images/cst_ru_11-59c0c22f2b30e24b211705a7232938b1.png)
-
-[Предыдущая страницаОбновление приложения на Windows](application-update-on-
-windows.html)[Следующая страницаСоздание файлового хранилища SFTP](sftp.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-![](../../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../../documentation.html)[Решение
-проблем](../../troubleshooting.html)[FAQ](../../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

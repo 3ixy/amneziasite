@@ -8,8 +8,7 @@ Reality подходит для стран с самым высоким уров
   * Не распознается системами DPI-анализа, устойчив к блокировке.
   * Работает по сетевому протоколу TCP.
 
-### Принцип работы:[​](xray.html#принцип-работы "Прямая ссылка на Принцип
-работы:")
+### Принцип работы:
 
 Распознать цензоров REALITY может еще на этапе TLS-хендшейка. Если REALITY
 видит, что к нему приходит его клиент, то сервер запускает для него VPN
@@ -29,29 +28,3 @@ Cloak.
 
 В очень редких случаях владельцы сайта могут пожаловаться вашему провайдеру на
 фишинг, поэтому рекомендуется внимательно выбирать сайт.
-
-[Предыдущая страницаУстановка AmneziaVPN на Linux](installing-app-on-
-linux.html)[Следующая страницаИнструкции](instructions/index.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-![](../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../documentation.html)[Решение
-проблем](../troubleshooting.html)[FAQ](../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

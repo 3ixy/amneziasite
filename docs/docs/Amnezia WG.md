@@ -187,38 +187,3 @@ ChaCha20‑Poly1305). Маскировочные поля подписывают
   * [Установка AmneziaWG и других нужных утилит на VDS-сервере](https://github.com/openwrt-xiaomi/awg-openwrt/wiki/AmneziaWG-installing#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-amneziawg-%D0%B8-%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85-%D0%BD%D1%83%D0%B6%D0%BD%D1%8B%D1%85-%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D1%82-%D0%BD%D0%B0-vds-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5)
   * [Установка AmneziaWG на Android-устройстве](https://github.com/openwrt-xiaomi/awg-openwrt/wiki/AmneziaWG-installing#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-amneziawg-%D0%BD%D0%B0-android-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B5)
   * [Установка AmneziaWG на OpenWRT-устройстве](https://github.com/openwrt-xiaomi/awg-openwrt/wiki/AmneziaWG-installing#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-amneziawg-%D0%BD%D0%B0-openwrt-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B5)
-
-[Предыдущая страницаПоддерживаемые операционные системы Linux для
-VPS](supported-linux-os-for-vps.html)[Следующая страницаАльтернативные
-клиенты](alternative-clients.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-  * [Ключевые преимущества](amnezia-wg.html#ключевые-преимущества)
-  * [Как это работает](amnezia-wg.html#как-это-работает)
-  * [Параметры конфигурации](amnezia-wg.html#параметры-конфигурации)
-  * [Безопасность](amnezia-wg.html#безопасность)
-  * [Дальнейшие шаги](amnezia-wg.html#дальнейшие-шаги)
-  * [Дополнительные ресурсы](amnezia-wg.html#дополнительные-ресурсы)
-    * [Нативные клиенты AmneziaWG](amnezia-wg.html#нативные-клиенты-amneziawg)
-    * [Установка AmneziaWG через консоль](amnezia-wg.html#установка-amneziawg-через-консоль)
-
-![](../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../documentation.html)[Решение
-проблем](../troubleshooting.html)[FAQ](../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)

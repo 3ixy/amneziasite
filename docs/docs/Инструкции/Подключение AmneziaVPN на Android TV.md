@@ -49,8 +49,7 @@ TV[​](android_tv_connect.html#шаг-2-установка-localsend-на-andro
 * * *
 
 ## Шаг 3. Установка LocalSend на втором
-устройстве[​](android_tv_connect.html#шаг-3-установка-localsend-на-втором-
-устройстве "Прямая ссылка на Шаг 3. Установка LocalSend на втором устройстве")
+устройстве
 
 В качестве второго устройства используйте то, на котором вам будет удобно
 скопировать ключ подключения **vpn://**.
@@ -87,12 +86,10 @@ TV, перейдите к нужному следующему шагу:
 * * *
 
 ## Шаг 4. Создание VPN-подключения на Android
-TV[​](android_tv_connect.html#шаг-4-создание-vpn-подключения-на-android-tv
-"Прямая ссылка на Шаг 4. Создание VPN-подключения на Android TV")
+TV
 
 ### Вариант 1. Подключение Amnezia
-Premium[​](android_tv_connect.html#вариант-1-подключение-amnezia-premium
-"Прямая ссылка на Вариант 1. Подключение Amnezia Premium")
+Premium
 
   1. Зайдите в **личный кабинет** Amnezia Premium на втором устройстве. Если вы уже авторизованы в нём, в разделе **Параметры подключения** нажмите кнопку **Копировать** возле ключа подключения — ключ скопируется в буфер обмена.
 
@@ -178,38 +175,3 @@ dfd5adbfd2c3a964316b41a2effda264.png)
 приложением VPN-подключений — **нажмите OK**.
 
 ![](../../assets/images/RU_13_AmneziaVPN_Connection_Request-2ecb40586acbfd0035a98cd369d96c0c.png)
-
-[Предыдущая страницаПодключение к Amnezia Free](connect-amfree.html)[Следующая
-страницаПоделиться Amnezia Premium с другими устройствами](connect-amnezia-
-premium.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-  * [Общая информация](android_tv_connect.html#общая-информация)
-  * [Шаг 1. Установка AmneziaVPN на Android TV](android_tv_connect.html#шаг-1-установка-amneziavpn-на-android-tv)
-  * [Шаг 2. Установка LocalSend на Android TV](android_tv_connect.html#шаг-2-установка-localsend-на-android-tv)
-  * [Шаг 3. Установка LocalSend на втором устройстве](android_tv_connect.html#шаг-3-установка-localsend-на-втором-устройстве)
-  * [Шаг 4. Создание VPN-подключения на Android TV](android_tv_connect.html#шаг-4-создание-vpn-подключения-на-android-tv)
-    * [Вариант 1. Подключение Amnezia Premium](android_tv_connect.html#вариант-1-подключение-amnezia-premium)
-    * [Вариант 2. Подключение Self-hosted](android_tv_connect.html#вариант-2-подключение-self-hosted)
-
-![](../../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../../documentation.html)[Решение
-проблем](../../troubleshooting.html)[FAQ](../../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

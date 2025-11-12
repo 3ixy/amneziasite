@@ -14,8 +14,7 @@
 Если вам требуется создать свой VPN, обратитесь к инструкции - [установка VPN
 на сервер](install-vpn-on-server.html).
 
-## Установите приложение AmneziaVPN[​](connect-via-qr-code.html#установите-
-приложение-amneziavpn "Прямая ссылка на Установите приложение AmneziaVPN")
+## Установите приложение AmneziaVPN
 
 На первом экране нажмите "Приступим", далее QR-код.
 
@@ -41,31 +40,3 @@
 Нажмите на кнопку “Подключиться”.
 
 ![](../../assets/images/qrc_ru_6-305a7be6dcbe7adeef5101ffbb73688b.png)
-
-[Предыдущая страницаПодключение через файл конфигурации](connect-via-
-config.html)[Следующая страницаПоделиться подключением](share-connection.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-  * [Установите приложение AmneziaVPN](connect-via-qr-code.html#установите-приложение-amneziavpn)
-
-![](../../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../../documentation.html)[Решение
-проблем](../../troubleshooting.html)[FAQ](../../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

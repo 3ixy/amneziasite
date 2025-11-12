@@ -1,8 +1,6 @@
 # Смена DNS сервера
 
-### Для чего может потребоваться смена DNS?[​](change-dns.html#для-чего-может-
-потребоваться-смена-dns "Прямая ссылка на Для чего может потребоваться смена
-DNS?")
+### Для чего может потребоваться смена DNS?
 
 В некоторых случаях, провайдеры интернет-услуг или правительства могут
 блокировать доступ к определенным веб-сайтам или сервисам через свой DNS.
@@ -48,30 +46,3 @@ DNS-сервера, например, с помощью AmneziaDNS, помога
 другие DNS серверы.
 
 ![](../../assets/images/cd_ru_8-d1e8d45408cb3f95943196ec650ff1ce.png)
-
-[Предыдущая страницаИспользование протокола AmneziaWG 1.5 на Self-hosted
-серверах](new-amneziawg-selfhosted.html)[Следующая страницаУдаление сервисов
-Amnezia с сервера](delete-amnezia-services.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-![](../../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../../documentation.html)[Решение
-проблем](../../troubleshooting.html)[FAQ](../../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

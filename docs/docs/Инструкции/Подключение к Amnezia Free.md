@@ -58,30 +58,3 @@ working.html), напишите в [нашу
 группу](https://t.me/amneziavpn_ru_channel_group), или на почту
 **[support@amnezia.org](mailto:support@amnezia.org)** мы поможем с решением
 проблемы.
-
-[Предыдущая страницаУстановка VPN на роутер OpenWrt](openwrt-os-
-awg.html)[Следующая страницаПодключение AmneziaVPN на Android
-TV](android_tv_connect.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-![](../../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../../documentation.html)[Решение
-проблем](../../troubleshooting.html)[FAQ](../../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

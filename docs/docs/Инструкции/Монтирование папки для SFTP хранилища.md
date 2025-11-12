@@ -48,29 +48,3 @@ Amnezia смонтирует Диск на вашем устройстве, та
 хранилищу без сторонних приложений.
 
 ![](../../assets/images/sftpmd_ru_9-21c21910b5647af7a86bd517f6f18a1c.png)
-
-[Предыдущая страницаСоздание файлового хранилища SFTP](sftp.html)[Следующая
-страницаУстановка и настройка SOCKS5 прокси сервера](socks5-proxy-server.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-![](../../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../../documentation.html)[Решение
-проблем](../../troubleshooting.html)[FAQ](../../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

@@ -22,29 +22,3 @@
   5. Нажмите “Поделиться”, чтобы скачать файл конфигурации себе на устройство. Если вы делитесь с помощью QR-кода, отсканируйте его с помощью смартфона или планшета.
 
 ![](../../assets/images/fc_ru_3-40269f3c3cc7de17e468eed57236c308.png)
-
-[Предыдущая страницаПоделиться подключением](share-connection.html)[Следующая
-страницаУстановка VPN на роутер Keenetic](keenetic-os-awg.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-![](../../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../../documentation.html)[Решение
-проблем](../../troubleshooting.html)[FAQ](../../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
-

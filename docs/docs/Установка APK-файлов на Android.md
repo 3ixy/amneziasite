@@ -48,29 +48,3 @@
 
 Следуя этим инструкциям, вы легко найдете и установите APK, подходящий для
 вашего устройства.
-
-[Предыдущая страницаПоддерживаемые форматы конфигураций](supported-
-configuration-formats.html)[Следующая страницаУстановка AmneziaVPN на
-Linux](installing-app-on-linux.html)
-
-Обращайтесь в чат за помощью, если что-то не получается
-
-[](https://t.me/amnezia_vpn)
-
-![](../img/logo-with-a-w-glow.svg)
-
-Продукты
-
-[Amnezia Premium](https://amnezia.org/premium)[Amnezia
-Free](https://amnezia.org/free)[Amnezia Self-hosted](https://amnezia.org/self-
-hosted)
-
-Ресурсы
-
-[Документация](../documentation.html)[Решение
-проблем](../troubleshooting.html)[FAQ](../faq.html)
-
-Контакты
-
-[Github](https://github.com/amnezia-vpn/amnezia-
-client)[Telegram](https://t.me/amnezia_vpn)[Reddit](https://reddit.com/r/AmneziaVPN/)
